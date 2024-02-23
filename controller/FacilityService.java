@@ -20,6 +20,7 @@ import view.Menu;
  */
 public class FacilityService extends Menu {
 
+    // abcdefgh
     static List<Facility> listFacility = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
 
